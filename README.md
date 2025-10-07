@@ -2,7 +2,7 @@
 To demonstrate my Git/GitHub skills for a class assignment. 
 
 # Personal Bio  
-Mario Zuniga  
+Name: Mario Zuniga  
 Major: Computer Science  
 
 ## Skills
