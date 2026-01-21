@@ -1,5 +1,5 @@
 # GitDemo
-To demonstrate my Git/GitHub skills for a class assignment. 
+To demonstrate my Git/GitHub skills for a class assignment!
 
 # Personal Bio  
 Name: Mario Zuniga  
